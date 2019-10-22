@@ -2,7 +2,8 @@
 scipy==1.1.0
 opencv-python
 cupy-cuda90
-
-#↑cudaのバージョン確認必要
-
 xlwt
+
+#check your cuda version
+
+
