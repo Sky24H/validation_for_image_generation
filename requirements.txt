@@ -1,0 +1,8 @@
+#python==3.6.5
+scipy==1.1.0
+opencv-python
+cupy-cuda90
+
+#↑cudaのバージョン確認必要
+
+xlwt
