@@ -1,17 +1,17 @@
-Validation for Image Generation
+#Validation for Image Generation
 
 
 Output are excel file with 5 values including:
 
-RGB_distance
+1.RGB_distance
 
-HSV_distance
+2.HSV_distance
 
-MSSSIM
+3.MSSSIM
 
-PSNR
+4.PSNR
 
-FSIM
+5.FSIM
 
 
 **Usage example:**
