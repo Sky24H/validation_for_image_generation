@@ -1,10 +1,20 @@
+Validation for Image Generation
 
 
-**Usage:**
+Output are excel file with 5 values including:
 
-python get_sim.py  --path_a '~~'  --path_b '~~'　--output '~~'
+RGB_distance
 
-example:
+HSV_distance
+
+MSSSIM
+
+PSNR
+
+FSIM
+
+
+**Usage example:**
 
 python get_sim.py --path_a ./data/ --path_b ./data/ --output result
 
