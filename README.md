@@ -20,4 +20,4 @@ python get_sim.py --path_a ./data/ --path_b ./data/ --output result
 
 
 GPU with 8Gb memory is needed
-
+(even more due to your size of images)
